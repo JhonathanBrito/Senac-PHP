@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_teste" value="name:id_usuario;datatype:int,name:nome_completo;datatype:string,name:senha;datatype:string,name:cpf;datatype:string,name:rg;datatype:string,name:endereco;datatype:string,name:cep;datatype:string,name:bairro;datatype:string,name:cidade;datatype:string,name:estado;datatype:string,name:data_nascimento;datatype:date,name:telefone;datatype:string,name:sexo;datatype:string,name:email;datatype:string" />
+	<infoitem key="UD_cad_cliente" value="name:id_usuario;datatype:int,name:nome_completo;datatype:string,name:senha;datatype:string,name:cpf;datatype:string,name:rg;datatype:string,name:endereco;datatype:string,name:cep;datatype:string,name:bairro;datatype:string,name:cidade;datatype:string,name:estado;datatype:string,name:data_nascimento;datatype:date,name:telefone;datatype:string,name:sexo;datatype:string,name:email;datatype:string" />
+</info>

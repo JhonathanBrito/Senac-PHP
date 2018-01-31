@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_td_inserir" value="name:id_usuario;datatype:int,name:nome;datatype:string,name:tipo_usuario;datatype:string" />
+	<infoitem key="UD_tb_inserir" value="name:id_usuario;datatype:int,name:nome;datatype:string,name:tipo_usuario;datatype:string,name:senha;datatype:string" />
+	<infoitem key="UD_tb_usuario" value="name:id_usuario;datatype:int,name:nome;datatype:string,name:tipo_usuario;datatype:string,name:senha;datatype:string" />
+	<infoitem key="UD_Recordset1" value="name:id_usuario;datatype:int,name:nome;datatype:string,name:senha;datatype:string" />
+	<infoitem key="UD_inserir" value="name:id_usuario;datatype:int,name:nome_completo;datatype:string,name:senha;datatype:string,name:tipo_usuario;datatype:string" />
+</info>

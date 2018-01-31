@@ -1,0 +1,95 @@
+/*contato html*/
+.body_contato{
+	background-color:#fff;
+}
+.contato{
+	text-align: center;
+	font-size: 40px;
+	color: #000;
+}
+
+/*index html*/ /*menu usado para todos os pag*/
+.body_index{
+	background-color: #FFFFFF;
+}
+.header{
+		height: 300px;
+		width: 100%;
+		background: url("../img/cozinha6.jpg") no-repeat center;
+		background-size: cover;
+
+}
+.logo{
+	float: left;
+}
+.form-horizontal{
+	margin-top: 50px;
+	
+}
+.help-block{
+	color: #000;
+	}
+	.header_menu{
+		float: right;
+		padding-right: 25px;
+	}
+	.header_menu ul li{
+		display: inline-block;
+		margin-left: 15px;
+		margin-top: 20px;
+	}
+	.header_menu ul li a{
+		color: #000; font-weight: bold; text-transform: uppercase; letter-spacing: .1em; padding: 10px 0; transition: all .3s ease; text-decoration: none;
+	}
+	.header_menu ul li a:hover{
+		color:#fff;
+	}
+	.empresa{
+		text-align: center;
+		
+	}
+	/*cadastro cliente html*/
+	.cadastro{
+		text-align: center;
+		font-size: 40px;
+	}
+	/*orcamento html*/
+	.orcamento{
+		text-align: center;
+		font-size: 40px;
+	}
+	/*login*/
+	.login{
+		text-align: center;
+		font-size: 40px;
+	}
+	.botao{
+		border-radius: 5px;
+		background: #e74545;
+		padding: 9px 13px;
+		color: #fff;
+		font-size: 14px;
+
+	}
+	.footer{
+		display: inline-block;
+
+	}
+.botaoo{
+		border-radius: 5px;
+		background: #blue;
+		padding: 9px 13px;
+		color: #fff;
+		font-size: 14px;
+}
+		
+/*adm*/
+		
+.tb_adm{
+	text-align: center;
+	
+}
+.adm_btn{
+	text-align: center;
+	padding-top: 100px;
+}
